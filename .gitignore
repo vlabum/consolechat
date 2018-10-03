@@ -1,0 +1,9 @@
+﻿/.idea/
+*.iml
+*.class
+*.jar
+*.lst
+*.txt
+*.properties
+*.xml
+!pom.xml
